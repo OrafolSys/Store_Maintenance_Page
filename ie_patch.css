@@ -1,0 +1,15 @@
+.outerDIV {
+	background: rgb(130, 130, 130); margin: 0px; padding: 0px; width: 710px;
+}
+.outerDIV-itemdetails {
+	background: rgb(130, 130, 130); margin: 0px; padding: 0px; width: 350px;
+}
+.rad-box {
+	background: rgb(255, 255, 255); margin: 0px; width: 100%;
+}
+.content-box {
+	background: rgb(255, 255, 255); margin: 0px; width: 100%;
+}
+content-box-itemdetails {
+	background: rgb(255, 255, 255); margin: 0px; width: 100%;
+}

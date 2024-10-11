@@ -1,0 +1,441 @@
+body {
+	margin: 0px; border: 0px currentColor; font-family: Arial, Verdana, Sans-serif; font-size: 12px; background-color: rgb(238, 243, 250);
+}
+body {
+	font-family: Arial, Verdana, Sans-serif !important;
+}
+body * {
+	font-family: Arial, Verdana, Sans-serif !important;
+}
+table#tblMain {
+	border: 0px currentColor; width: 75%; background-color: white;
+}
+table#tblContent {
+	height: 525px; background-color: rgb(225, 228, 233);
+}
+td#tdContent {
+	background-color: rgb(225, 228, 233);
+}
+ul#ctl00_ucMainMenu_menu {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul#menuHome {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul#menuLogoff {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul#ctl00_ucMainMenu_menu ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul#menuHome ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul#menuLogoff ul {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+ul#ctl00_ucMainMenu_menu a {
+	text-decoration: none; display: block;
+}
+ul#menuHome a {
+	text-decoration: none; display: block;
+}
+ul#menuLogoff a {
+	text-decoration: none; display: block;
+}
+ul#ctl00_ucMainMenu_menu li a {
+	background: rgb(31, 74, 139); padding: 8px; color: rgb(255, 255, 255);
+}
+ul#menuHome li a {
+	background: rgb(31, 74, 139); padding: 8px; color: rgb(255, 255, 255);
+}
+ul#menuLogoff li a {
+	background: rgb(31, 74, 139); padding: 8px; color: rgb(255, 255, 255);
+}
+ul#ctl00_ucMainMenu_menu li a:hover {
+	background: url("../../Images/menu-item-gradient.png") repeat-x;
+}
+ul#menuHome li a:hover {
+	background: url("../../Images/menu-item-gradient.png") repeat-x;
+}
+ul#menuLogoff li a:hover {
+	background: url("../../Images/menu-item-gradient.png") repeat-x;
+}
+ul#ctl00_ucMainMenu_menu li ul li a {
+	background: url("../../Images/menu-item-gradient.png") repeat-x; padding: 8px; color: rgb(255, 255, 255);
+}
+ul#ctl00_ucMainMenu_menu li ul li a:hover {
+	background: rgb(31, 74, 255); border-left-color: rgb(31, 74, 139); border-left-width: 0px; border-left-style: solid;
+}
+ul#ctl00_ucMainMenu_menu li {
+	line-height: 18px; margin-right: 1px; margin-left: 1px;
+}
+ul#menuHome li {
+	line-height: 18px; margin-right: 1px; margin-left: 1px;
+}
+ul#menuLogoff li {
+	line-height: 18px; margin-right: 1px; margin-left: 1px;
+}
+ul#ctl00_ucMainMenu_menu li ul li {
+	line-height: 18px; margin-right: 0px; margin-left: 0px;
+}
+ul#ctl00_ucMainMenu_menu li a img {
+	border-width: 0px; vertical-align: bottom;
+}
+ul#menuHome li a img {
+	border-width: 0px; vertical-align: bottom;
+}
+ul#menuLogoff li a img {
+	border-width: 0px; vertical-align: bottom;
+}
+ul#ctl00_ucMainMenu_menu li ul li a img {
+	border-width: 0px; vertical-align: bottom;
+}
+.menu-line-top {
+	margin-top: 1px;
+}
+.menu-line-bottom {
+	margin-bottom: 1px;
+}
+.menu {
+	width: 180px; background-color: rgb(255, 255, 255);
+}
+#tblMenuHomeTop {
+	border: 0px currentColor; width: 180px;
+}
+#tblMenuHomeBottom {
+	border: 0px currentColor; width: 180px;
+}
+#tblMenuTop {
+	border: 0px currentColor; width: 180px;
+}
+#tblMenuBottom {
+	border: 0px currentColor; width: 180px;
+}
+#tblMenuLogoffTop {
+	border: 0px currentColor; width: 180px;
+}
+#tblMenuLogoffBottom {
+	border: 0px currentColor; width: 180px;
+}
+.menu-base {
+	background-color: rgb(31, 74, 139);
+}
+.menu-top-over {
+	background-color: rgb(5, 140, 245);
+}
+.menu-bottom-over {
+	background-color: rgb(2, 114, 236);
+}
+.sub-menu-over {
+	background-color: rgb(31, 74, 255);
+}
+#navmenu ul {
+	margin: 0px; padding: 0px; list-style-type: none; list-style-image: none;
+}
+#navmenu li {
+	display: inline;
+}
+#navmenu ul li a {
+	background: grey; margin: 0px; padding: 1px 20px; color: black; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+#navmenu ul li a:hover {
+	background: white; color: purple;
+}
+#trHeader {
+	background: url("../../Images/header-gradient.png") repeat-x; height: 50px;
+}
+.pageTitle {
+	text-align: center; color: rgb(255, 255, 255); padding-top: 12px; font-size: 20px; font-weight: bold;
+}
+.breadcrumbs-link {
+	color: rgb(0, 0, 238); padding-left: 5px; font-size: 11px; text-decoration: none;
+}
+.hyperlink {
+	color: rgb(0, 0, 238); text-decoration: none;
+}
+.customer-name-link {
+	color: rgb(255, 255, 255); padding-left: 9px; font-size: 11px; text-decoration: none;
+}
+.Login_Footer {
+	color: rgb(0, 131, 155); font-size: 10px; font-weight: normal; background-color: transparent;
+}
+.footer {
+	width: 100%; text-align: right; padding-right: 4px;
+}
+.shopping-cart-summary {
+	width: 180px; padding-right: 6px; vertical-align: top;
+}
+.item-dot-background {
+	background: url("../../Images/black-dot.png"); border: 0px currentColor; width: 1px; height: 1px;
+}
+.item-navigation {
+	padding-top: 3px; padding-bottom: 3px;
+}
+.item-message {
+	padding-left: 5px;
+}
+h3 {
+	padding: 1px 1px 1px 2px; border: currentColor; color: rgb(255, 255, 255); font-size: small; font-weight: bold; margin-top: 5px; margin-bottom: 1px; background-color: navy;
+}
+table {
+	color: rgb(0, 0, 0);
+}
+tr {
+	text-align: left;
+}
+.fieldset_title {
+	font-size: small; font-weight: bold; text-decoration: none; vertical-align: top;
+}
+.label-floating {
+	left: 0px; width: 210px; height: 40px; bottom: 10px; color: black; font-weight: bold; filter: alpha(opacity=60); position: absolute; z-index: 200; opacity: 0.6; background-color: white;
+}
+#SubTitle {
+	color: black; padding-left: 5px; font-size: 12px; font-weight: bold; background-color: rgb(195, 195, 195);
+}
+.ActionEvent_title {
+	color: rgb(0, 131, 155); text-transform: capitalize; font-size: 13px; font-weight: normal; text-decoration: none; vertical-align: middle; background-color: transparent;
+}
+.tabhead {
+	height: 20px; text-align: left; color: rgb(255, 255, 255); text-transform: inherit; padding-top: 3px; padding-left: 5px; font-size: 15px; font-weight: bold; background-color: navy;
+}
+.doc_tabhead {
+	color: rgb(255, 255, 255); text-transform: inherit; padding-top: 3px; padding-left: 5px; font-size: 15px; font-weight: bold; background-color: navy;
+}
+.small_grey {
+	color: rgb(112, 112, 112); font-size: 13px; font-weight: bold;
+}
+.small_red {
+	color: red; font-size: 13px; font-weight: bold;
+}
+p {
+	color: rgb(11, 7, 79); line-height: normal; font-size: 8pt; font-weight: normal;
+}
+div#piedpage {
+	font-size: 8px;
+}
+.text_14_grey {
+	color: rgb(112, 112, 112); text-transform: inherit; font-size: 14px; font-weight: bold; background-color: transparent;
+}
+.text_14_bold {
+	color: rgb(0, 0, 0); text-transform: inherit; font-size: 14px; font-weight: bold; background-color: transparent;
+}
+.text_14 {
+	color: rgb(0, 0, 0); text-transform: inherit; font-size: 14px; background-color: transparent;
+}
+.text_12_bold {
+	color: rgb(0, 0, 0); text-transform: inherit; font-size: 12px; font-weight: bold; background-color: transparent;
+}
+.EvossRgtLabel {
+	color: rgb(0, 0, 0); font-size: small; text-decoration: none; vertical-align: top;
+}
+div.fs-featured {
+	width: 310px; padding-top: 0px; padding-right: 0px; padding-left: 0px; float: left; display: inline; min-height: 240px;
+}
+div.fs-sidebar {
+	border: 1px dashed rgb(202, 202, 202); width: 370px; padding-top: 1px; margin-left: 1px; float: right; display: inline;
+}
+.Navigator_Selected_Current {
+	color: rgb(228, 121, 17); font-weight: bolder;
+}
+.Navigator_Selected {
+	color: rgb(237, 168, 100); font-weight: bold;
+}
+.Navigator_Not_Selected {
+	color: rgb(204, 204, 204); font-weight: bold;
+}
+#top {
+	background: url("../../Images/Corners/grey-dot.png") repeat-x 0px 0px rgb(255, 255, 255); width: 721px; margin-left: 5px;
+}
+#bottom {
+	background: url("../../Images/Corners/grey-dot.png") repeat-x 0px 100%;
+}
+#left {
+	background: url("../../Images/Corners/grey-dot.png") repeat-y 0px 0px;
+}
+#right {
+	background: url("../../Images/Corners/grey-dot.png") repeat-y 100% 0px;
+}
+#bottom-left {
+	background: url("../../Images/Corners/bottom_left.png") no-repeat 0px 100%;
+}
+#bottom-right {
+	background: url("../../Images/Corners/bottom_right.png") no-repeat 100% 100%;
+}
+#top-left {
+	background: url("../../Images/Corners/top_left.png") no-repeat 0px 0px;
+}
+#top-right {
+	background: url("../../Images/Corners/top_right.png") no-repeat 100% 0px; padding: 10px;
+}
+.top {
+	background: url("../../Images/Corners/grey-dot.png") repeat-x 0px 0px rgb(255, 255, 255); margin: 0px; width: 711px;
+}
+.bottom {
+	background: url("../../Images/Corners/grey-dot.png") repeat-x 0px 100%;
+}
+.left {
+	background: url("../../Images/Corners/grey-dot.png") repeat-y 0px 0px;
+}
+.right {
+	background: url("../../Images/Corners/grey-dot.png") repeat-y 100% 0px;
+}
+.bottom-left {
+	background: url("../../Images/Corners/bottom_left.png") no-repeat 0px 100%;
+}
+.bottom-right {
+	background: url("../../Images/Corners/bottom_right.png") no-repeat 100% 100%;
+}
+.top-left {
+	background: url("../../Images/Corners/top_left.png") no-repeat 0px 0px;
+}
+.top-right {
+	background: url("../../Images/Corners/top_right.png") no-repeat 100% 0px;
+}
+.bottom-left-white {
+	background: url("../../Images/Corners/bottom_left_white.png") no-repeat 0px 100%;
+}
+.bottom-right-white {
+	background: url("../../Images/Corners/bottom_right_white.png") no-repeat 100% 100%;
+}
+.top-left-white {
+	background: url("../../Images/Corners/top_left_white.png") no-repeat 0px 0px;
+}
+.top-right-white {
+	background: url("../../Images/Corners/top_right_white.png") no-repeat 100% 0px;
+}
+.item-bottom {
+	background: url("../../Images/Corners/grey-dot.png") repeat-x 0px 100%;
+}
+.process-finish-line {
+	background: url("../../Images/orange-dot.png") repeat-x 44% 56%; height: 19px;
+}
+.process-unfinish-line {
+	background: url("../../Images/light-grey-dot.png") repeat-x 44% 56%; height: 19px;
+}
+.process-end {
+	background: url("../../Images/light-grey-dot.png") repeat-y 100% 0px; height: 15px;
+}
+.header-content-text {
+	color: rgb(112, 112, 112); font-size: 13px; font-weight: bold; text-decoration: none; vertical-align: super; background-color: transparent;
+}
+.rad-box {
+	margin: 0px auto; padding: 5px 0px; border-radius: 8px; border: 1px solid rgb(130, 130, 130); width: 710px; text-align: left; color: rgb(204, 204, 204); background-color: rgb(255, 255, 255); -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.rad-box-in-tab {
+	margin: 0px auto; padding: 5px 0px; border-radius: 8px; border: 1px solid rgb(130, 130, 130); width: 100%; text-align: left; color: rgb(204, 204, 204); background-color: rgb(255, 255, 255); -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.content-box {
+	margin: 0px auto; padding: 5px 4px; border-radius: 8px; border: 1px solid rgb(130, 130, 130); width: 702px; text-align: left; background-color: rgb(255, 255, 255); -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.content-box-itemdetails {
+	margin: 0px auto; padding: 5px 4px; border-radius: 8px; border: 1px solid rgb(130, 130, 130); width: 702px; text-align: left; background-color: rgb(255, 255, 255); -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.content-box-bearcat {
+	margin: 0px auto; padding: 5px 4px; border-radius: 8px; border: 1px solid rgb(130, 130, 130); width: 690px; text-align: left; background-color: rgb(255, 255, 255); -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.selection-box {
+	margin: 0px; padding: 5px 4px; border-radius: 8px; border: 1px solid rgb(130, 130, 130); width: 360px; text-align: left; background-color: rgb(233, 235, 239); -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.tab-box {
+	padding: 5px 4px; border: 1px solid rgb(130, 130, 130); width: 702px; text-align: left; margin-top: -1px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; background-color: rgb(255, 255, 255); -moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 5px; -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 5px;
+}
+.cart-box {
+	margin: 0px auto; padding: 0px 0px 2px; border: 1px solid rgb(255, 255, 255); width: 180px; text-align: center; color: rgb(255, 255, 255); border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; background-color: rgb(225, 228, 233); -moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 5px;
+}
+div.RadGrid {
+	border: 0px currentColor;
+}
+div.RadGrid table.rgMasterTable thead {
+	border: 0px currentColor;
+}
+div.RadScheduler div.rsTopWrap div.rsHeader {
+	border: 0px currentColor;
+}
+div.RadScheduler div.rsContent {
+	border: 0px currentColor;
+}
+.RadPanelBar .rpRootGroup {
+	border: currentColor !important;
+}
+.RadPanelBar .rpRootGroup .rpLink {
+	border: currentColor !important;
+}
+.field-caption {
+	width: 200px; text-align: right; color: rgb(112, 112, 112); padding-top: 2px; padding-right: 10px; padding-bottom: 2px; font-size: 13px; font-weight: bold;
+}
+.data-header-1 {
+	color: rgb(112, 112, 112); text-transform: inherit; padding-left: 6px; font-size: 14px; font-weight: bold; background-color: transparent;
+}
+.data-header-2 {
+	color: rgb(112, 112, 112); padding-left: 6px; font-size: 13px; font-weight: bold;
+}
+.data-header-3 {
+	color: rgb(112, 112, 112); padding-left: 6px; font-size: 12px; font-weight: bold;
+}
+.div-button {
+	
+}
+.div-button-in-grid {
+	
+}
+.button-in-grid {
+	font-size: 11px;
+}
+.button {
+	font-size: 11.5px;
+}
+textarea {
+	font-size: 12px;
+}
+textarea {
+	font-size: 12px;
+}
+.RadNumbericTextBoxCss {
+	text-align: right;
+}
+.div-button {
+	display: none;
+}
+.Login {
+	background: rgb(0, 0, 0); color: rgb(255, 255, 0); line-height: 190px; text-decoration: none; margin-right: 1px; margin-left: 1px; display: block;
+}
+.multiline-label {
+	border: currentColor; width: 98.5%; color: rgb(11, 7, 79); overflow: hidden; font-weight: bold; margin-top: 1px; margin-bottom: 1px; background-color: transparent; resize: none;
+}
+.text-caption {
+	color: rgb(112, 112, 112); padding-top: 2px; padding-bottom: 2px; padding-left: 4px; font-size: 13px; font-weight: bold;
+}
+.text-right-item {
+	text-align: right; padding-right: 6px; font-weight: bold;
+}
+.text-item {
+	padding-top: 2px; padding-left: 4px; font-weight: bold;
+}
+.text-nodata-item {
+	padding-left: 2px;
+}
+.div-search-link {
+	text-align: right; padding-top: 2px; padding-right: 7px; padding-bottom: 2px; vertical-align: middle;
+}
+.body-report {
+	margin: 5px; background-color: rgb(255, 255, 255);
+}
+.CustomMessage {
+	color: red; font-size: larger; font-weight: bold;
+}
+.radAjaxLoadingPanel_center {
+	left: 50%; top: 50%; margin-top: -30px; margin-left: -65px; position: absolute;
+}
+.radAjaxLoadingPanel_menuCenter {
+	left: 50%; top: 200px; margin-top: -30px; margin-left: -65px; position: absolute;
+}
+.checkbox-align-left {
+	margin: 0px; left: -3px; position: relative;
+}
+.textarea-no-resize {
+	resize: none;
+}
+.text-align-right {
+	text-align: right;
+}
